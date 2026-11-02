@@ -1,0 +1,2 @@
+This file demonstrates Git Submodule functionality.
+PostgreSQL library is managed as a separate repository.
